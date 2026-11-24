@@ -40,7 +40,7 @@
 
 **Data → Insights → Predictions → Recommendations → Decisions**
 
-Instead of forcing business users to manually clean datasets, build charts, analyze trends, and interpret machine-learning results, InsightAI brings these capabilities together inside one intelligent analytics platform.
+Instead of forcing business users to manually clean datasets, build charts, analyze trends, and interpret machine-learning results, InsightAI brings these capabilities together inside intelligent analytics platform.
 
 ### 💡 The Problem
 
